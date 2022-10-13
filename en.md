@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Никита Крючков"
-permalink: /ru/
+permalink: /en/
 internationalization:
-  lang: "ru"
-  name: "Резюме"
+  lang: "eng"
+  name: "Resume"
   contacts:
     title: "Контакты"
     email:
