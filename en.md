@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Никита Крючков"
+title: "Nikita Kryuchkov"
 permalink: /en/
 internationalization:
   lang: "eng"
   name: "Resume"
   contacts:
-    title: "Контакты"
+    title: "Contacts"
     email:
       title: "kryuchkovnkita@gmail.com"
       link: "mailto:kryuchkovnkita@gmail.com"
@@ -17,71 +17,71 @@ internationalization:
       title: "/nikitanvkru"
       link: "https://github.com/nikitanvkru"
   options:
-    title: "Опции"
+    title: "Options"
     toggle_lang:
       title: "&#127468&#127463 English"
-      link: "/en/"
-    white: "Светлая тема"
-    dark: "Темная тема"
+      link: "/ru/"
+    white: "Bright theme"
+    dark: "Dark theme"
     pdf:
-      title: "Скачать в PDF"
+      title: "Download PDF"
       link: "/cv/Nikita_Kryuchkov_CV_ru.pdf"
 ---
 
-### Образование
+### Education
 
 <hr class="margin-right">
 
-- **[НИУ "Московский институт электронной техники"](https://www.miet.ru)**  
-*2018 - 2022. Москва, Россия.  
-09.03.01 Информатика и вычислительная техника, бакалавр.*
-- **[Тверской государственный технический университет](https://tstu.tver.ru)**  
-*сентябрь 2022. Тверь, Россия.  
-09.04.01 Информатика и вычислительная техника, магистр.*
+- **[National Research University of Electronic Technology (MIET)](https://www.miet.ru)**  
+*2018 - 2022. Moscow, Russia.  
+09.03.01 Computer science and engineering, bachelor.*
+- **[Tver state technical university](https://tstu.tver.ru)**  
+*september 2022. Tver, Russia.  
+09.04.01 Computer science and engineering, master.*
 
-### Опыт работы
-
-<hr class="margin-right">
-
-- **Институт МПСУ [МИЭТ](https://www.miet.ru), Москва, Россия**  
-*Должность: Техник и ассистент.  
-Февраль 2022 - Июнь 2022.*  
-
-### Технические навыки
+### Job experience
 
 <hr class="margin-right">
 
-- **Языки программирования**  
-Имею опыт программирования на Python, Java (pet-проекты).   
-Имею опыт написания учебных проектов на C, C++, MATLAB.
-- **Фреймворки, библиотеки и технологии:**  
+- **Institute of Microdevices and Control Systems(https://www.miet.ru)**  
+*Position: technician and assistent.  
+February 2022 - June 2022.*  
+
+### Technical skills
+
+<hr class="margin-right">
+
+- **Programming languages**  
+Experienced with Python, Java (pet-projects).   
+Also used C, C++, MATLAB in university projects.
+- **Frameworks, libraries and technologies:**  
 Padnas, Numpy, Mathplotlib, Keras, OpenCV, TensorFlow, Java SE, Servlet Api.
-- **Воркфлоу**  
-Владею git, работал с Git-flow.
-- **Работал с базами данных**  
+- **Workflow**  
+Experienced with git, Git-flow.
+- **I have worked with databases**  
 Firebird, MS SQL Server, SQLite, MySQL.
 
 ### Soft skills
 
 <hr class="margin-right">
 
-- Коммуникабельность, обучаемость, стрессоустойчивость, ответственность.
-- Английский, уровень владения -- Upper-intermediate (B2).
+- Communication skills, learning ability, stress resistance,responsibility.
+- English, Upper-intermediate (B2).
 
-### Стажировки
+### Courses
 
 <hr class="margin-right">
 
 - **EPAM Systems**  
-С октября 2021 по февраль 2022 обучался на стриме разработки.  
-Занимался работой с данными, Amazon S3.  
-Также получил опыт написания модульных тестов и тестов с использованием моков.
+From october 2021 to february 2022 was learning to work with data.  
+Mainly collecting, processing, worked with data warehouse Amazon s3.  
+Also have some test writing experience.
 
-### Проекты
+### Projects
 
 <hr class="margin-right">
 
-- **[Система подачи корма при помощи алгоритмов машинного обучения](https://github.com/nikitanvkru/Diplom-dogs)**   
-Дипломный проект. Используется локальный сервер на микрокомпьютере raspberry pi, на сервере загружена небольшая нейрость по определению породы собаки, база данных sqlite и тг-бот. На сервер поступают изображения с камеры, он отправляет ответ с предсказанной породой.
-- **[Менеджер сотрудников](https://github.com/nikitanvkru/Crud-with-servlets)**  
-Менеджер сотрудников компании. База данных mySql управляем сотрудниками через сервлеты.
+- **[Dog breed identification implemented on raspberry pi](https://github.com/nikitanvkru/Diplom-dogs)**   
+My educational project. Local server based on raspberry pi, server hosts small model that identifies dog breed on image, sqlite database and telegram bot.
+- **[Employees manager](https://github.com/nikitanvkru/Crud-with-servlets)**  
+Servlets app for managing employees. mySql database for storing data and servlets for managing.
