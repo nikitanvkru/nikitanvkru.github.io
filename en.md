@@ -19,7 +19,7 @@ internationalization:
   options:
     title: "Options"
     toggle_lang:
-      title: "&#127468&#127463 English"
+      title: "ru Русский"
       link: "/ru/"
     white: "Bright theme"
     dark: "Dark theme"
@@ -43,7 +43,7 @@ internationalization:
 
 <hr class="margin-right">
 
-- **Institute of Microdevices and Control Systems(https://www.miet.ru)**  
+- **Institute of Microdevices and Control Systems**  
 *Position: technician and assistent.  
 February 2022 - June 2022.*  
 
