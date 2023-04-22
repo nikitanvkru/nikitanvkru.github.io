@@ -62,8 +62,8 @@ internationalization:
 - **Языки программирования**  
 Имею опыт коммерческой разработки на Python, Java.   
 - **Фреймворки, библиотеки и технологии:**
-- Java: Java SE, Servlet Api, Hibernate, Spring Boot
-- Python: Padnas, Numpy, Mathplotlib, Keras, OpenCV, TensorFlow
+ Java: Java SE, Servlet Api, Hibernate, Spring Boot
+ Python: Padnas, Numpy, Mathplotlib, Keras, OpenCV, TensorFlow
 - **Воркфлоу**  
 Владею git, работал с Git-flow.
 - **Работал с базами данных**  
